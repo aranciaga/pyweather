@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 # coding: utf-8
-# pyweather notify by Rainbow (wlan0)
+# pyweather notifier by Rainbow (wlan0)
 
 import urllib2, os
 
